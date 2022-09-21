@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=2E2E2E&height=300&section=header&text=Frontend-Developer&fontSize=50&color=F2F2F2" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=5882FA&height=300&section=header&text=Frontend-Developer&fontSize=50" />
 </p>
 
 <div align=center><h4>🌟 MY STATS 🌟</h4></div>
