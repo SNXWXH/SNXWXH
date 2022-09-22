@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Frontend-Developer&fontSize=50" />
-</p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <div align=center><h4>🌟 MY STATS 🌟</h4></div>
 
