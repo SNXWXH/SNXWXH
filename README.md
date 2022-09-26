@@ -1,7 +1,7 @@
 <div align="center">
  
  ### 🐣LSeolAH🐥
- <p>Front-end Developer</p>
+ <p>Front-end developer</p>
  
   ---
   <div>
