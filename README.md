@@ -11,10 +11,10 @@
     <a href="mailto:snxwxh@gmail.com" target="_balnk">
       <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/>
     </a>
-    <a href="[https://tar-snout-3bc.notion.site/LSeolAh-Portfolio-3328fd092af8496eb11d180d1de0fa62](https://tar-snout-3bc.notion.site/SNXWXH-1d82d1f0bab14ce88043483b9c53ee32)">
+    <a href="https://tar-snout-3bc.notion.site/SNXWXH-1d82d1f0bab14ce88043483b9c53ee32">
       <img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=black&link=mailto:sualah0417@gmail.com"/>
     </a>
-    <a href="[https://velog.io/@seollog](https://velog.io/@seollog)">
+    <a href="https://velog.io/@seollog">
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
     </a>
     <br>
