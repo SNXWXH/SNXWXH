@@ -18,6 +18,13 @@
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
     </a>
     <br>
+   <a href="https://github.com/devxb/gitanimals">
+     <img
+       src="https://render.gitanimals.org/lines/SNXWXH?pet-id=645278710055819646"
+       width="600"
+       height="120"
+     />
+   </a>
 <!--     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=SNXWXH&show_icons=true&theme=material-palenight&hide_border=true&bg_color=2c2c2c&icon_color=E5BF00&text_color=fff&title_color=E5BF00&count_private=true" width=47% />
