@@ -21,7 +21,8 @@
    <a href="https://github.com/devxb/gitanimals">
      <img
        src="https://render.gitanimals.org/lines/SNXWXH?pet-id=645278710055819646"
-       width="98%"
+       width="1000"
+       height="120"
      />
    </a>
 <!--     <br>
